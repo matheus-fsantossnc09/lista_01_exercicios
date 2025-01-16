@@ -8,3 +8,14 @@ o resultado.
 o Exemplo de Saída: "O número está entre 1 e 100." ou "O número não está 
 entre 1 e 100.
  */
+
+Console.WriteLine("Digite um número 1 a 100");
+int numero = int.Parse(Console.ReadLine());
+
+if (numero < 100)
+{
+    Console.WriteLine("O número está entre 1 e 100");
+} else if (numero > 100)
+{
+    Console.WriteLine("O número não esta entre 1 e 100");
+}

@@ -7,5 +7,39 @@ etc.). Se o número estiver fora desse intervalo, exiba uma mensagem de
 erro.
 o Exemplo de Saída: "Domingo", "Segunda-feira", etc., ou "Número inválido. 
 Digite um número de 1 a 7."
-
  */
+
+Console.WriteLine("Digite um número de 1 a 7");
+int numero = int.Parse(Console.ReadLine());
+
+if (numero == 1)
+{
+    Console.WriteLine("Domingo");
+}
+else if (numero == 2)
+{
+    Console.WriteLine("Segunda - feira");
+}
+else if (numero == 3)
+{
+    Console.WriteLine("Terça - feira");
+}
+else if (numero == 4)
+{
+    Console.WriteLine("Quarta - feira");
+}
+else if (numero == 5)
+{
+    Console.WriteLine("Quinta - feira");
+}
+else if (numero == 6)
+{
+    Console.WriteLine("Sexta - feira");
+}
+else if (numero == 7)
+{
+    Console.WriteLine("Sabado ");
+} else
+{
+    Console.WriteLine("Número inválido");
+}

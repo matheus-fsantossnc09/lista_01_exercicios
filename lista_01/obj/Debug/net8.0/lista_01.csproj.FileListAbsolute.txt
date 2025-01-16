@@ -1,0 +1,14 @@
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\bin\Debug\net8.0\lista_01.exe
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\bin\Debug\net8.0\lista_01.deps.json
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\bin\Debug\net8.0\lista_01.runtimeconfig.json
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\bin\Debug\net8.0\lista_01.dll
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\bin\Debug\net8.0\lista_01.pdb
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.AssemblyInfoInputs.cache
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.AssemblyInfo.cs
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.csproj.CoreCompileInputs.cache
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.dll
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\refint\lista_01.dll
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.pdb
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.genruntimeconfig.cache
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\ref\lista_01.dll

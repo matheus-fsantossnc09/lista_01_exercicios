@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\Lista_11_do while\\Lista_11_do while.csproj",
+      "projectUniqueName": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\Lista_11_do while\\Lista_11_do while.csproj",
       "projectName": "Lista_11_do while",
-      "projectPath": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\Lista_11_do while\\Lista_11_do while.csproj",
+      "projectPath": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\Lista_11_do while\\Lista_11_do while.csproj",
       "packagesPath": "C:\\Users\\matheus.fsantos72\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\Lista_11_do while\\obj\\",
+      "outputPath": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\Lista_11_do while\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

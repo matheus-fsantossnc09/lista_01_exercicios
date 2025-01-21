@@ -1,61 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F420E7BE-BEAA-4ABE-BF68-FB47F7DB08CB}|lista_11_for\\lista_11_for.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{710CBFBD-9D15-49E7-95B2-1AFEAF8DD912}|Teste_github\\Teste_github.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\teste_github\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710CBFBD-9D15-49E7-95B2-1AFEAF8DD912}|Teste_github\\Teste_github.csproj|solutionrelative:teste_github\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420E7BE-BEAA-4ABE-BF68-FB47F7DB08CB}|lista_11_for\\lista_11_for.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_11_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F420E7BE-BEAA-4ABE-BF68-FB47F7DB08CB}|lista_11_for\\lista_11_for.csproj|solutionrelative:lista_11_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F443E3AC-89A8-46B0-A6F9-6F684DED42F8}|Lista_11_do while\\Lista_11_do while.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F443E3AC-89A8-46B0-A6F9-6F684DED42F8}|Lista_11_do while\\Lista_11_do while.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_11_do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F443E3AC-89A8-46B0-A6F9-6F684DED42F8}|Lista_11_do while\\Lista_11_do while.csproj|solutionrelative:lista_11_do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB741C12-C477-46EA-926F-40C31C5476C0}|lista_11_exercicio_while\\lista_11_exercicio_while.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_exercicio_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB741C12-C477-46EA-926F-40C31C5476C0}|lista_11_exercicio_while\\lista_11_exercicio_while.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_11_exercicio_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB741C12-C477-46EA-926F-40C31C5476C0}|lista_11_exercicio_while\\lista_11_exercicio_while.csproj|solutionrelative:lista_11_exercicio_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B230A8CF-CE4A-432C-9ACC-833B97B045E5}|lista_10\\lista_10.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B230A8CF-CE4A-432C-9ACC-833B97B045E5}|lista_10\\lista_10.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B230A8CF-CE4A-432C-9ACC-833B97B045E5}|lista_10\\lista_10.csproj|solutionrelative:lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E28C13-EA60-4DDC-AE3E-6785F5225457}|lista_09\\lista_09.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56E28C13-EA60-4DDC-AE3E-6785F5225457}|lista_09\\lista_09.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56E28C13-EA60-4DDC-AE3E-6785F5225457}|lista_09\\lista_09.csproj|solutionrelative:lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81A72A0E-500F-469C-B70C-9329146BA256}|lista_08\\lista_08.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81A72A0E-500F-469C-B70C-9329146BA256}|lista_08\\lista_08.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81A72A0E-500F-469C-B70C-9329146BA256}|lista_08\\lista_08.csproj|solutionrelative:lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBE00B53-D6C2-41F1-A15B-401B49577B88}|lista_07\\lista_07.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBE00B53-D6C2-41F1-A15B-401B49577B88}|lista_07\\lista_07.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBE00B53-D6C2-41F1-A15B-401B49577B88}|lista_07\\lista_07.csproj|solutionrelative:lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B92D8D-854D-4FE6-A1BA-63E58A08DFE8}|lista_06\\lista_06.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2B92D8D-854D-4FE6-A1BA-63E58A08DFE8}|lista_06\\lista_06.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2B92D8D-854D-4FE6-A1BA-63E58A08DFE8}|lista_06\\lista_06.csproj|solutionrelative:lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{759F1D4E-7DCC-4580-A835-916603CFBC0A}|lista_05\\lista_05.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{759F1D4E-7DCC-4580-A835-916603CFBC0A}|lista_05\\lista_05.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{759F1D4E-7DCC-4580-A835-916603CFBC0A}|lista_05\\lista_05.csproj|solutionrelative:lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40F9B7D3-82B4-424F-B8EA-24A8EC2B8DD8}|lista_04\\lista_04.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40F9B7D3-82B4-424F-B8EA-24A8EC2B8DD8}|lista_04\\lista_04.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40F9B7D3-82B4-424F-B8EA-24A8EC2B8DD8}|lista_04\\lista_04.csproj|solutionrelative:lista_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{188EF986-B5AB-4D35-9DF0-5767137E39A3}|lista_03\\lista_03.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{188EF986-B5AB-4D35-9DF0-5767137E39A3}|lista_03\\lista_03.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{188EF986-B5AB-4D35-9DF0-5767137E39A3}|lista_03\\lista_03.csproj|solutionrelative:lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30FE499D-BA04-4413-A838-6CBD720C0103}|lista_02\\lista_02.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30FE499D-BA04-4413-A838-6CBD720C0103}|lista_02\\lista_02.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30FE499D-BA04-4413-A838-6CBD720C0103}|lista_02\\lista_02.csproj|solutionrelative:lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0043CD9A-1783-4A60-A299-1243B779C6BC}|lista_01\\lista_01.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0043CD9A-1783-4A60-A299-1243B779C6BC}|lista_01\\lista_01.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0043CD9A-1783-4A60-A299-1243B779C6BC}|lista_01\\lista_01.csproj|solutionrelative:lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{188EF986-B5AB-4D35-9DF0-5767137E39A3}|lista_03\\lista_03.csproj|c:\\users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\lista_03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{188EF986-B5AB-4D35-9DF0-5767137E39A3}|lista_03\\lista_03.csproj|c:\\users\\matheus.fsantos72\\documents\\lista_01_exercicios\\lista_03\\lista_03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{188EF986-B5AB-4D35-9DF0-5767137E39A3}|lista_03\\lista_03.csproj|solutionrelative:lista_03\\lista_03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -72,9 +76,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_for\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\Teste_github\\Program.cs",
+              "RelativeDocumentMoniker": "Teste_github\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\Teste_github\\Program.cs",
+              "RelativeToolTip": "Teste_github\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:47:13.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_11_for\\Program.cs",
               "RelativeDocumentMoniker": "lista_11_for\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_for\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_11_for\\Program.cs",
               "RelativeToolTip": "lista_11_for\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,42 +99,36 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\Lista_11_do while\\Program.cs",
-              "RelativeDocumentMoniker": "Lista_11_do while\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\Lista_11_do while\\Program.cs",
-              "RelativeToolTip": "Lista_11_do while\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:11:38.162Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_exercicio_while\\Program.cs",
-              "RelativeDocumentMoniker": "lista_11_exercicio_while\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_exercicio_while\\Program.cs",
-              "RelativeToolTip": "lista_11_exercicio_while\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\Lista_11_do while\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_11_do while\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\Lista_11_do while\\Program.cs",
+              "RelativeToolTip": "Lista_11_do while\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:04:21.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:11:38.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_11_exercicio_while\\Program.cs",
+              "RelativeDocumentMoniker": "lista_11_exercicio_while\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_11_exercicio_while\\Program.cs",
+              "RelativeToolTip": "lista_11_exercicio_while\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:04:21.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_08\\Program.cs",
               "RelativeDocumentMoniker": "lista_08\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_08\\Program.cs",
               "RelativeToolTip": "lista_08\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_09\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_09\\Program.cs",
               "RelativeDocumentMoniker": "lista_09\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_09\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_09\\Program.cs",
               "RelativeToolTip": "lista_09\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,24 +148,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_10\\Program.cs",
               "RelativeDocumentMoniker": "lista_10\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_10\\Program.cs",
               "RelativeToolTip": "lista_10\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:37:10.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:37:10.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_07\\Program.cs",
               "RelativeDocumentMoniker": "lista_07\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_07\\Program.cs",
               "RelativeToolTip": "lista_07\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_06\\Program.cs",
               "RelativeDocumentMoniker": "lista_06\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_06\\Program.cs",
               "RelativeToolTip": "lista_06\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_05\\Program.cs",
               "RelativeDocumentMoniker": "lista_05\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_05\\Program.cs",
               "RelativeToolTip": "lista_05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_04\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_04\\Program.cs",
               "RelativeDocumentMoniker": "lista_04\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_04\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_04\\Program.cs",
               "RelativeToolTip": "lista_04\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_03\\Program.cs",
               "RelativeDocumentMoniker": "lista_03\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_03\\Program.cs",
               "RelativeToolTip": "lista_03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,11 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_02\\Program.cs",
               "RelativeDocumentMoniker": "lista_02\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_02\\Program.cs",
               "RelativeToolTip": "lista_02\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_01\\Program.cs",
               "RelativeDocumentMoniker": "lista_01\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_01\\Program.cs",
               "RelativeToolTip": "lista_01\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -234,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "lista_03.csproj",
-              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\lista_03.csproj",
+              "DocumentMoniker": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_03\\lista_03.csproj",
               "RelativeDocumentMoniker": "lista_03\\lista_03.csproj",
-              "ToolTip": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\lista_03.csproj",
+              "ToolTip": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_03\\lista_03.csproj",
               "RelativeToolTip": "lista_03\\lista_03.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_for\\lista_11_for.csproj": {}
+    "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_11_for\\lista_11_for.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_for\\lista_11_for.csproj": {
+    "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_11_for\\lista_11_for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_for\\lista_11_for.csproj",
+        "projectUniqueName": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_11_for\\lista_11_for.csproj",
         "projectName": "lista_11_for",
-        "projectPath": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_for\\lista_11_for.csproj",
+        "projectPath": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_11_for\\lista_11_for.csproj",
         "packagesPath": "C:\\Users\\matheus.fsantos72\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus.fsantos72\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_11_for\\obj\\",
+        "outputPath": "C:\\Users\\matheus.fsantos72\\Documents\\lista_01_exercicios\\lista_11_for\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

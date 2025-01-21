@@ -1,0 +1,15 @@
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\bin\Debug\net8.0\lista_11_exercicio_while.exe
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\bin\Debug\net8.0\lista_11_exercicio_while.deps.json
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\bin\Debug\net8.0\lista_11_exercicio_while.runtimeconfig.json
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\bin\Debug\net8.0\lista_11_exercicio_while.dll
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\bin\Debug\net8.0\lista_11_exercicio_while.pdb
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\lista_11_exercicio_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\lista_11_exercicio_while.AssemblyInfoInputs.cache
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\lista_11_exercicio_while.AssemblyInfo.cs
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\lista_11_exercicio_while.csproj.CoreCompileInputs.cache
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\lista_11_exercicio_while.sourcelink.json
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\lista_11_exercicio_while.dll
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\refint\lista_11_exercicio_while.dll
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\lista_11_exercicio_while.pdb
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\lista_11_exercicio_while.genruntimeconfig.cache
+C:\Users\matheus.fsantos72\source\repos\lista_01_exercicios\lista_01_exercicios\lista_11_exercicio_while\obj\Debug\net8.0\ref\lista_11_exercicio_while.dll
